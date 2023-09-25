@@ -1,2 +1,4 @@
 # Hand_Gesture_Recognition
-This Project is about recognising number of fingers showing in front of live feed camera.Using Hand HaarCascade XML which is used to identify Palm. 
+* Trained a CNN classifier to recognize real-time hand gestures for music control - next, previous, pause.
+* Generated data set of 12K RGB images
+* Pre-processed data with generic background images using color-based segmentation and transformations, achieved accuracy 92%
